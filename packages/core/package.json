@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "jenkin-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -19,5 +22,5 @@
   "dependencies": {
     "@jenkin-cli-dev/utils": "^1.0.2"
   },
-  "gitHead": "d3fc91af70e9da897f3d72f71f57a17c610d1f3d"
+  "gitHead": "31bd0c0907a642531a0d86f3d9304eaf055f0622"
 }
