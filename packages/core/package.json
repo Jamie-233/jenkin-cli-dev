@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@jenkin-cli-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "d3fc91af70e9da897f3d72f71f57a17c610d1f3d"
 }
