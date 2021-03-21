@@ -1,0 +1,16 @@
+0 silly argv { _: [ 'link' ], lernaVersion: '4.0.0', '$0': 'lerna' }
+1 notice cli v4.0.0
+2 verbose rootPath /Users/xss/Documents/github/jenkin-cli-dev/jenkin-cli-dev
+3 error JSONError: Unexpected token "," (0x2C) in JSON at position 382 while parsing near "...ot\\\" && exit 1\"\n  },,\n  \"dependencies\": ..." in packages/core/package.json
+3 error
+3 error [0m [90m 16 |[39m   [32m"scripts"[39m[33m:[39m {[0m
+3 error [0m [90m 17 |[39m     [32m"test"[39m[33m:[39m [32m"echo \"Error: run tests from root\" && exit 1"[39m[0m
+3 error [0m[31m[1m>[22m[39m[90m 18 |[39m   }[33m,[39m[33m,[39m[0m
+3 error [0m [90m    |[39m     [31m[1m^[22m[39m[0m
+3 error [0m [90m 19 |[39m   [32m"dependencies"[39m[33m:[39m {[0m
+3 error [0m [90m 20 |[39m     [32m"@jenkin-cli-dev/utils"[39m[33m:[39m [32m"^1.0.0"[39m[0m
+3 error [0m [90m 21 |[39m   }[0m
+3 error
+3 error     at parseJson (/Users/xss/Documents/github/jenkin-cli-dev/jenkin-cli-dev/node_modules/parse-json/index.js:29:21)
+3 error     at parse (/Users/xss/Documents/github/jenkin-cli-dev/jenkin-cli-dev/node_modules/load-json-file/index.js:15:9)
+3 error     at module.exports (/Users/xss/Documents/github/jenkin-cli-dev/jenkin-cli-dev/node_modules/load-json-file/index.js:18:47)
