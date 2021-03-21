@@ -1,6 +1,6 @@
 {
   "name": "@jenkin-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "jenkin-cli-dev core",
   "author": "Jenkin <jiancunge.com@gmail.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@jenkin-cli-dev/utils": "^1.0.1"
+    "@jenkin-cli-dev/utils": "^1.0.2"
   },
   "gitHead": "d3fc91af70e9da897f3d72f71f57a17c610d1f3d"
 }
