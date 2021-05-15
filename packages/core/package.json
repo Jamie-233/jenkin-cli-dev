@@ -17,10 +17,10 @@
     "lib"
   ],
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@jenkin-cli-dev/utils": "file:../utils"
+    "@jenkin-cli-dev/utils": "^1.0.3"
   },
   "gitHead": "31bd0c0907a642531a0d86f3d9304eaf055f0622",
   "publishConfig": {
