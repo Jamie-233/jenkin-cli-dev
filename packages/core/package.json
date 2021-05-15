@@ -1,6 +1,6 @@
 {
   "name": "@jenkin-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "jenkin-cli-dev core",
   "author": "Jenkin <jiancunge.com@gmail.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@jenkin-cli-dev/utils": "^1.0.3"
+    "@jenkin-cli-dev/utils": "^1.0.4"
   },
   "gitHead": "31bd0c0907a642531a0d86f3d9304eaf055f0622",
   "publishConfig": {
