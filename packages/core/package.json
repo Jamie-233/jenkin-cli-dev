@@ -22,7 +22,7 @@
   "dependencies": {
     "@jenkin-cli-dev/utils": "^1.0.4"
   },
-  "gitHead": "31bd0c0907a642531a0d86f3d9304eaf055f0622",
+  "gitHead": "fae362db7386c48c4f68e5f1c41c206c3b461d53",
   "publishConfig": {
     "access": "public"
   }
